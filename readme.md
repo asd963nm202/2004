@@ -8,3 +8,4 @@ Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 *   Red
 *   Green
 *   Blue
+Use the `printf()` function.
